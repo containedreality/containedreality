@@ -2,8 +2,6 @@
 Hello! I am containedreality. I am a programmer primarily interested in UNIX, BSD and Linux systems,
 though I am focused on [Debian](https://debian.org/).
 
-Here's some of my tools that I use if you are interested.
-
 I am generally interested with cybersecurity, relatively low level UNIX-like software (Init and other utils for example)
 , and networking.
 
