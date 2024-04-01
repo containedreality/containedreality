@@ -24,5 +24,5 @@ But I also some *some* experience in Go, Python, Java, C#, Javascript, Assembly 
 # Extra
 You can find my configuration files at [here](https://github.com/containedreality/configs).
 
-You can also find my openbox configuration at [here](https://github.com/containedreality/configs),
+You can also find my openbox configuration at [here](https://github.com/containedreality/openbox-config),
 however I shall note that I don't really use it much, and only have it here for the few times that I do use it for example in a virtual machine or on a laptop.
