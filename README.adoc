@@ -1,0 +1,15 @@
+= containedreality
+
+Hello! I am containedreality. I am a programmer primarily interested in UNIX, BSD, networking, and other similar things.
+
+= Tools
+
+Operating system: https://netbsd.org/[NetBSD], and https://en.wikipedia.org/wiki/Microsoft_Windows[Microsoft Windows].
+
+Shell: https://www.gnu.org/software/bash/[GNU Bash]
+
+Text Editor: what ever works, usually https://www.gnu.org/software/emacs/[GNU Emacs] or https://www.vim.org/[Vim]
+
+= Programming languages
+
+Usually https://man.netbsd.org/sh.1[sh(1)], https://www.ruby-lang.org/en/[Ruby], or https://en.wikipedia.org/wiki/C_(programming_language)[C], and sometimes though rarely https://go.dev/[Go].
