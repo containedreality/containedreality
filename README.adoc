@@ -8,6 +8,6 @@ Operating system: https://fedoraproject.org/[Fedora], https://www.netbsd.org/[Ne
 
 Shell: https://www.gnu.org/software/bash/[GNU Bash]
 
-Text Editor: what ever works, usually https://kakoune.org/[kakoune] or https://www.vim.org/[Vim], or also https://code.visualstudio.com/[VSCode].
+Text Editor: what ever works, https://www.vim.org/[Vim], or also https://code.visualstudio.com/[VSCode].
 
 image::https://github-readme-stats.vercel.app/api/top-langs/?username=containedreality&hide=javascript,css,scss,html&theme=light[Languages]
