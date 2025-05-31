@@ -1,10 +1,10 @@
 == containedreality
 
-Hello! I am containedreality. I am a programmer, and cybersecurity enthusiast primarily interested in UNIX, BSD, networking, and other similar things.
+I am containedreality, I am interested in cybersecurity, UNIX, networking, and other similar things.
 
 == Tools
 
-Operating system: https://fedoraproject.org/[Fedora], https://www.netbsd.org/[NetBSD], and https://en.wikipedia.org/wiki/Microsoft_Windows[Microsoft Windows].
+Operating system: https://fedoraproject.org/[Fedora], https://openindiana.org/[OpenIndiana], and https://en.wikipedia.org/wiki/Microsoft_Windows[Microsoft Windows].
 
 Shell: https://www.gnu.org/software/bash/[GNU Bash]
 
