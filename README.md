@@ -1,5 +1,38 @@
-# [About Me](https://containedreality.github.io/about.html)
+# containedreality
 
+I am containedreality, I am interested in cybersecurity, UNIX, networking, and other similar things.
 
+## Tools
 
-![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=containedreality\&hide=javascript,css,scss,html\&theme=light)
+### Operating Systems
+
+* [OmniOS](https://omnios.org/) - Server
+* [Alma Linux](https://almalinux.org/) - Desktop/Laptop
+
+### Text Editors
+
+* [Kate](https://kate-editor.org/)
+* What ever is available.
+
+### Shells
+
+* PowerShell
+* [GNU Bash](https://www.gnu.org/software/bash/)
+
+### Programming Languages
+
+I write many programming language depending on the task at hand. But it usually comes down to these 4.
+
+* C (C99, C17)
+* [Go](https://go.dev/)
+* [Python](https://www.python.org/downloads/)
+* POSIX shell and Bash.
+
+### Contact / Social Media
+
+* containedreality2007 at outlook.com
+* [YouTube](https://www.youtube.com/@containedreality)
+* [Reddit](https://www.reddit.com/user/containedreality/)
+* [TikTok](https://www.tiktok.com/@containedreality)
+* [X](https://x.com/containdreality)
+
