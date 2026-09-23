@@ -7,7 +7,7 @@ I am containedreality, I am interested in cybersecurity, UNIX, networking, and o
 ### Operating Systems
 
 * [OmniOS](https://omnios.org/) - Server
-* [Alma Linux](https://almalinux.org/) - Desktop/Laptop
+* [Debian](https://www.debian.org/) - Desktop/Laptop
 
 ### Text Editors
 
