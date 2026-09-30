@@ -21,12 +21,7 @@ Hello, I'm containedreality, I'm interested in cybersecurity, cryptography, UNIX
 
 ### Programming Languages
 
-I write many programming language depending on the task at hand. But it usually comes down to these 4.
-
-* C (C99, C17)
-* [Go](https://go.dev/)
-* [Python](https://www.python.org/downloads/)
-* POSIX shell and Bash.
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=containedreality&langs_count=4&theme=shadow_blue)](https://github-stats-extended.vercel.app/api/top-langs?username=containedreality&langs_count=4&theme=shadow_blue)
 
 ### Contact / Social Media
 
