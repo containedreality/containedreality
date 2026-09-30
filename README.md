@@ -1,6 +1,6 @@
 # containedreality
 
-I am containedreality, I am interested in cybersecurity, UNIX, networking, and other similar things.
+Hello, I'm containedreality, I'm interested in cybersecurity, cryptography, UNIX, networking, and other similar things.
 
 ## Tools
 
@@ -11,7 +11,7 @@ I am containedreality, I am interested in cybersecurity, UNIX, networking, and o
 
 ### Text Editors
 
-* [Kate](https://kate-editor.org/)
+* [VSCodium](https://github.com/VSCodium/vscodium)
 * What ever is available.
 
 ### Shells
@@ -35,4 +35,3 @@ I write many programming language depending on the task at hand. But it usually 
 * [Reddit](https://www.reddit.com/user/containedreality/)
 * [TikTok](https://www.tiktok.com/@containedreality)
 * [X](https://x.com/containdreality)
-
